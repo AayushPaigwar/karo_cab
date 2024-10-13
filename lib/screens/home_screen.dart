@@ -12,7 +12,7 @@ import 'package:karocab/utils/sizeconst.dart';
 import 'package:karocab/widgets/button.dart';
 
 import 'chat_screen.dart';
-import 'utils/colors.dart';
+import '../utils/colors.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

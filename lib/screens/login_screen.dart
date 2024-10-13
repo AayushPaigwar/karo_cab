@@ -2,12 +2,12 @@ import 'dart:developer';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:karocab/home_screen.dart';
+import 'package:karocab/screens/home_screen.dart';
 import 'package:otpless_flutter/otpless_flutter.dart';
 
-import '../utils/colors.dart';
-import 'utils/sizeconst.dart';
-import 'widgets/button.dart';
+import '../../utils/colors.dart';
+import '../utils/sizeconst.dart';
+import '../widgets/button.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
